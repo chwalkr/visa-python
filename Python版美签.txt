@@ -1,0 +1,5 @@
+环境：python3，pip3 install pyqt5
+
+解压WX-VS-PQ.zip,运行python3 vs_main.py
+
+源码流程：主程序只是控制跳转流程、读数据、送到页面里，页面的操作是用JS控制的，在/js/下，每一页的脚本单独写了一个文件，操作页面控件

@@ -1,0 +1,1 @@
+document.getElementById('ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation').value='BEJ';syncLocationToCulture('ctl00_SiteContentPlaceHolder_ucLocation_ddlLocation','ctl00_ddlLanguage');setTimeout('__doPostBack(\'ctl00$SiteContentPlaceHolder$ucLocation$ddlLocation\',\'\')', 0);
